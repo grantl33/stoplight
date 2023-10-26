@@ -1,3 +1,7 @@
+# Stoplight in React
+This is a simple stoplight built in React and was inspired from this coding exercise: https://lnkd.in/g2qD65qn
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
